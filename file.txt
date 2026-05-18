@@ -1,3 +1,7 @@
 hlo git repo public
 feature 
 updates
+dashboard
+billing
+out sourcing
+files
