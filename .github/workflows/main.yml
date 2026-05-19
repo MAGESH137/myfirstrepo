@@ -1,7 +1,7 @@
 name: My First Workflow
 on:                                        # WHEN does this run?
   push:                                    # Every time you push code
-    branches: [main]                       # Only on the 'main' branch
+    branches: [feature/user-authentication]                       # Only on the 'main' branch
   workflow_dispatch:                       # Also allow manual trigger from GitHub UI
 
 jobs:                                      # WHAT to run
